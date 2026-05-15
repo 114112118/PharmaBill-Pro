@@ -1,0 +1,8 @@
+{
+  "name": "PharmaBill Pro",
+  "description": "A professional pharmacy billing and inventory management system with Excel import and printable invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
